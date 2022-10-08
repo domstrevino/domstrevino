@@ -1,20 +1,13 @@
-<h1 align="center">Hi 👋, I'm Dominick</h1>
-<h3 align="center">Chad C# enjoyer</h3>
+<h1 align="center">Hi 👋, I'm Dominick Trevino</h1>
+<h3 align="center">Junior Software Developer</h3>
 
-- 🔭 I’m currently working on [League Client](https://github.com/domstrevino/LeagueClient)
+- 🔭 I’m currently refactoring old projects
+- 🌱 I’m learning **ASP.NET, React, TypeScript, Algorithms, Data Structures**
+- 👨‍💻 All of my projects respositories are available [here](https://github.com/domstrevino?tab=repositories)
+- 📫 Contact me at **dst41@uakron.edu**
 
-- 🌱 I’m currently learning **ASP.NET, React, TypeScript, Algorithms**
-
-- 👯 I’m looking to collaborate on **Open Source Software**
-
-- 👨‍💻 All of my projects are available at [https://github.com/domstrevino](https://github.com/domstrevino)
-
-- 💬 Ask me about **C#, JavaScript, SQL**
-
-- 📫 Contact me at **dst41@uakron.edu OR domstrevino@aol.com**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   <a href="https://twitter.com/domstrevino" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="domstrevino" height="30" width="40" />
   </a>
@@ -26,9 +19,9 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<h4 align="center">Backend Development:</h4>
-<p align="center">
+<h3 align="left">Languages and Tools:</h3>
+<h5 align="left">Backend Development:</h5>
+<p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
@@ -37,8 +30,8 @@
   </a>
 </p>
 
-<h4 align="center">Frontend Development:</h4>
-<p align="center">
+<h5 align="left">Frontend Development:</h5>
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
@@ -53,8 +46,8 @@
   </a>
 </p>
 
-<h4 align="center">Database:</h4>
-<p>
+<h5 align="left">Database:</h5>
+<p align="left">
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
   </a>
@@ -63,8 +56,8 @@
   </a>
 </p>
 
-<h4 align="center">Frameworks:</h4>
-<p>
+<h5 align="left">Frameworks:</h5>
+<p align="left">
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
   </a>
@@ -74,16 +67,22 @@
 </p>
 
 
-<h4 align="center">Tools:</h4>
-<p>
+<h5 align="left">Tools:</h5>
+<p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
+  </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=domstrevino&show_icons=true&locale=en&layout=compact" alt="domstrevino" />
 </p>
