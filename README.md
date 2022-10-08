@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dominick Trevino</h1>
 <h3 align="center">Junior Software Developer</h3>
 
-- 🔭 I’m currently refactoring old projects
+- 🔭 I’m currently rewriting my [League-of-Statistics_v2](https://github.com/domstrevino/League-of-Statistics_v2) project.
 - 🌱 I’m learning **ASP.NET, React, TypeScript, Algorithms, Data Structures**
 - 👨‍💻 All of my projects respositories are available [here](https://github.com/domstrevino?tab=repositories)
 - 📫 Contact me at **dst41@uakron.edu**
